@@ -14,9 +14,9 @@ File names:
 * Bar / DM / sum are for baryonic matter, dark matter, and all matter
 * nnn is snapshot number
 
-Files `*cm.txt` contain positions of Milky Way analogue in phycical coordinates (not comoving) relative to the position at z=0.
+Files `*cm.txt` contain positions of Milky Way analogue in phycical kiloparsecs (without h^{-1}) (not comoving) relative to the position at z=0.
 
-Files `M31*` contain positions of M31 analogue at each snapshot relative to the Milky Way analogue position at that same snapshot.
+Files `M31*` contain positions of M31 analogue at each snapshot relative to the Milky Way analogue position at that same snapshot, in physical kiloparsecs.
 
 When using this data, please, cite the following papers:
 Libeskind et al. [https://doi.org/10.1093/mnras/staa2541](https://doi.org/10.1093/mnras/staa2541)
